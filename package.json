@@ -1,0 +1,10 @@
+{
+  "name": "vip-marcela-maldonado",
+  "version": "1.0.0",
+  "description": "VIP Marcela Maldonado Landing Page",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'Static site ready for deployment'"
+  },
+  "keywords": []
+}
